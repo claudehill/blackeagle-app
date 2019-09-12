@@ -15,13 +15,52 @@
   </div>
 </template>
 
+<script>
+/* eslint-disable */
+require('../src/assets/js/universal/jquery.js');
+require('../src/assets/js/style-switcher/jquery-1.js');
+require('../src/assets/js/style-switcher/styleselector.js');
+
+
+
+export default {
+  
+}
+</script>
+
 <style>
-/* #app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-} */
+@import './assets/css/style.css';
+@import './assets/css/reset.css';
+@import './assets/css/responsive-leyouts.css';
+/* mega menu */
+
+@import './assets/js/mainmenu/sticky.css';
+@import './assets/js/mainmenu/bootstrap.min.css';
+@import './assets/js/mainmenu/demo.css';
+@import './assets/js/mainmenu/menu.css';
+/* revolution slider */
+/* CSS STYLE */
+@import './assets/js/revolutionslider/css/style.css';
+/* SLIDER REVOLUTION 4.x CSS SETTINGS */
+@import './assets/js/revolutionslider/css/style.css';
+@import '~/assets/js/revolutionslider/rs-plugin/css/settings.css';
+/* simple line icons */
+@import './assets/css/Simple-Line-Icons-Webfont/simple-line-icons.css';
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css') ;
+
+/* flexslider */
+@import './assets/js/flexslider/flexslider.css';
+
+/* accordion */
+@import './assets/js/accordion/accordion.css';
+
+/* tabs */
+@import './assets/js/tabs/assets/css/responsive-tabs.css';
+@import './assets/js/tabs/assets/css/responsive-tabs2.css';
+@import './assets/js/tabs/assets/css/responsive-tabs11.css';
+/* color */
+@import './assets/css/colors/darkred.css';
+
+
+
 </style>

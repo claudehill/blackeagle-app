@@ -2953,7 +2953,7 @@ label.custom-select {
 	background: url(../images/site-img43.jpg) center top no-repeat;
 }
 .section_holder22 .img_holder .img.nine {
-	background: url(../http://placehold.it/575x315) center top no-repeat;
+	background: url(http://placehold.it/575x315) center top no-repeat;
 }
 .section_holder22 .member_info {
 	width: 80%;
@@ -6836,7 +6836,6 @@ ol.list_st4 li:before {
 .table-style {
 	float: left;
 	width: 100%;
- /* tab */
 }
 .table-list {
 	padding: 0;
@@ -6959,7 +6958,6 @@ ol.list_st4 li:before {
 .table-style {
 	float: left;
 	width: 100%;
- tab
 }
 .table-list4 {
 	padding: 0;
