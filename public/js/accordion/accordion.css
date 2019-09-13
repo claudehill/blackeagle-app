@@ -3,7 +3,7 @@
 .acc-trigger { cursor: pointer; display: block; margin: 0 0 0 0; width: 100%;	}
 .acc-trigger:last-of-type, .acc-container:last-of-type { margin-bottom: 20px; }
 .no-js .acc-trigger:last-of-type { border-bottom: none; }
-.acc-trigger a { background: url(~/images/accordion-ico5.png) no-repeat 14px 13px; display: block; padding: 11px 20px 11px 44px; text-decoration: none; text-shadow: none; font-family: 'Open Sans'; font-size: 14px; font-weight: 600; color: #727272; border: 1px solid #e3e3e3; border-bottom: 1px solid #e3e3e3; margin: 6px 0 0 0;}
+.acc-trigger a { background: url(../../images/accordion-ico5.png) no-repeat 14px 13px; display: block; padding: 11px 20px 11px 44px; text-decoration: none; text-shadow: none; font-family: 'Open Sans'; font-size: 14px; font-weight: 600; color: #727272; border: 1px solid #e3e3e3; border-bottom: 1px solid #e3e3e3; margin: 6px 0 0 0;}
 .acc-trigger a:hover { background-position: 14px -58px; }
 .acc-trigger a:hover, .acc-trigger.active a, .acc-trigger.active a:hover { color: #fe7e20; border-bottom: 1px solid #d9d9d9; }
 .acc-trigger.active a:hover { background-color: transparent; }
@@ -24,7 +24,7 @@
 
 .no-js .acc-trigger02:last-of-type { border-bottom: none; }
 
-.acc-trigger02 a { background: url(~/images/accordion-ico2.png) no-repeat 20px 13px; display: block; padding: 11px 20px 11px 50px; text-decoration: none; text-shadow: none; font-family: 'Open Sans'; font-size: 14px; font-weight: 600; color: #545454; border: 1px solid #d9d9d9; border-radius:35px; }
+.acc-trigger02 a { background: url(../../images/accordion-ico2.png) no-repeat 20px 13px; display: block; padding: 11px 20px 11px 50px; text-decoration: none; text-shadow: none; font-family: 'Open Sans'; font-size: 14px; font-weight: 600; color: #545454; border: 1px solid #d9d9d9; border-radius:35px; }
 
 .acc-trigger02 a:hover { color:#000; }
 
@@ -52,7 +52,7 @@
 
 .no-js .acc-trigger03:last-of-type { border-bottom: none; }
 
-.acc-trigger03 a { background: url(~/images/accordion-ico3.png) no-repeat 20px 17px; display: block; padding: 15px 20px 15px 50px; text-decoration: none; text-shadow: none; font-family: 'Open Sans'; font-size: 14px; font-weight: 600; color: #b5b5b5; background-color:#575757; box-shadow: 1px 1px 6px rgba(50, 50, 50, 0.3);}
+.acc-trigger03 a { background: url(../../images/accordion-ico3.png) no-repeat 20px 17px; display: block; padding: 15px 20px 15px 50px; text-decoration: none; text-shadow: none; font-family: 'Open Sans'; font-size: 14px; font-weight: 600; color: #b5b5b5; background-color:#575757; box-shadow: 1px 1px 6px rgba(50, 50, 50, 0.3);}
 
 .acc-trigger03 a:hover { color:#000; }
 
@@ -81,7 +81,7 @@
 
 .no-js .acc-trigger04:last-of-type { border-bottom: none; }
 
-.acc-trigger04 a { background: url(~/images/accordion-ico4.png) no-repeat 20px 17px; display: block; padding: 15px 20px 15px 50px; text-decoration: none;  font-family: 'Open Sans'; font-size: 14px; font-weight: 600; color: #161616; border:1px solid #d9d9d9;}
+.acc-trigger04 a { background: url(../../images/accordion-ico4.png) no-repeat 20px 17px; display: block; padding: 15px 20px 15px 50px; text-decoration: none;  font-family: 'Open Sans'; font-size: 14px; font-weight: 600; color: #161616; border:1px solid #d9d9d9;}
 
 .acc-trigger04 a:hover { color:#000; }
 
