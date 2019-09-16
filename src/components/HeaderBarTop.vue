@@ -6,24 +6,24 @@
           <div class="container">
             <ul>
               <li>
-                <i class="fa fa-comments"></i> 24x7 live Technical Support
+                <i class="fa fa-comments"></i> Need Technical Support? |
               </li>
               <li>
-                <i class="fa fa-phone"></i> (888) 123-4567
+                <i class="fa fa-phone"></i> Request Appointment | 
               </li>
               <li>
                 <a href="#">
-                  <i class="fa fa-comments"></i> Live Chat
+                  <i class="fa fa-video-camera" aria-hidden="true"></i> Video Chat | 
                 </a>
               </li>
               <li>
                 <a href="#">
-                  <i class="fa fa-user"></i> Login
+                  <i class="fa fa-user"></i> Login | 
                 </a>
               </li>
               <li>
                 <a href="#">
-                  <i class="fa fa-user"></i> Register
+                  <i class="fa fa-user"></i> Register 
                 </a>
               </li>
 
