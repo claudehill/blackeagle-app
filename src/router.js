@@ -13,6 +13,11 @@ export default new Router({
       component: Home
     },
     {
+      path: '/site-analysis',
+      name: 'siteAnalysis',
+      component: () => import( /* webpackChunkName: "siteAnalysis" */ './views/SiteAnalysis.vue' )
+    },
+    {
       path: '/about',
       name: 'about',
       // route level code-splitting

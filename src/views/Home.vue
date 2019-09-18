@@ -238,7 +238,7 @@
 
             <!-- accordion -->
 
-            <div id="accordion">
+            <div id="accordion1">
               <div class="card">
                 <div class="card-header" id="headingOne">
                   <h5 class="mb-0 float-left">
@@ -260,7 +260,7 @@
                   id="collapseOne"
                   class="collapse show"
                   aria-labelledby="headingOne"
-                  data-parent="#accordion"
+                  data-parent="#accordion1"
                 >
                   <div
                     class="card-body"
@@ -287,7 +287,7 @@
                   id="collapseTwo"
                   class="collapse"
                   aria-labelledby="headingTwo"
-                  data-parent="#accordion"
+                  data-parent="#accordion1"
                 >
                   <div
                     class="card-body"
@@ -314,7 +314,7 @@
                   id="collapseThree"
                   class="collapse"
                   aria-labelledby="headingThree"
-                  data-parent="#accordion"
+                  data-parent="#accordion1"
                 >
                   <div
                     class="card-body"
@@ -447,7 +447,7 @@
       </div>
     </div>
 
-    <AffiliateProgram />
+    <WebsiteAnalysis />
 
     <!-- eslint-disable-next-line -->
     <div class="clearfix"></div>
@@ -570,7 +570,7 @@ import HeaderNavbarAlt from "@/components/HeaderNavbarAlt.vue";
 import SearchDomain from "@/components/SearchDomain.vue";
 import SliderMain from "@/components/SliderMain.vue";
 import HostingPlans from "@/components/HostingPlans.vue";
-import AffiliateProgram from "@/components/AffiliateProgram.vue";
+import WebsiteAnalysis from "@/components/WebsiteAnalysis.vue";
 import Footer from "@/components/Footer.vue";
 
 export default {
@@ -581,13 +581,24 @@ export default {
     SearchDomain,
     SliderMain,
     HostingPlans,
-    AffiliateProgram,
+    WebsiteAnalysis,
     Footer
   }
 };
 </script>
 
 <style scoped>
+.cl_title_line {
+  height: 3px;
+  padding: 0px;
+  margin: 15px auto 20px;
+  text-align: center;
+  background: url(~/images/colors/darkred/title_line10.png) center top no-repeat;
+}
+
+
+
+
 .section_holder38 {
   width: 100%;
   float: left;
@@ -819,7 +830,7 @@ a.features {
   /* transform: scale(1.2) */
 }
 
-#accordion {
+#accordion1 {
   width: 90% !important;
 }
 
